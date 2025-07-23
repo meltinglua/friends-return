@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Connections",
+  "version": "1.0",
+  "description": "remove connections",
+  "content_scripts": [
+    {
+      "matches": ["*://*.roblox.com/*"],
+      "js": ["removeConnects.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
