@@ -1,13 +1,18 @@
-Recently, Roblox removed Friends and replaced them with connections.
+# Roblox Friends Plugin
 
-This plugin returns friends
+**Note:** Recently, Roblox removed Friends and replaced them with Connections.
 
-TUTORIAL:
+This plugin returns friends.
 
-Download this as a ZIP File
-Extract the ZIP File
-Go to chrome://extensions (Important note: Replace chrome with your browser name, eg: brave://extensions, edge://extensions)
-Turn on developer mode
-Click on "Load Unpacked"
-Select the extracted folder
-Go to roblox.com
+---
+
+## Tutorial
+
+1. Download this as a ZIP file  
+2. Extract the ZIP file  
+3. Go to `chrome://extensions`  
+   *(Important note: Replace `chrome` with your browser name, e.g., `brave://extensions`, `edge://extensions`)*  
+4. Turn on **Developer mode**  
+5. Click on **Load Unpacked**  
+6. Select the extracted folder  
+7. Go to `roblox.com`
